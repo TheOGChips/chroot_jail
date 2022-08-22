@@ -1,0 +1,6 @@
+{
+    "name": "chroot_jail"
+    "files": [{
+               "git": 1
+              }]
+}
